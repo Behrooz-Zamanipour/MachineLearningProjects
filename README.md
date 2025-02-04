@@ -8,4 +8,12 @@ This project is a reproduction of a YouTube tutorial that demonstrates how to cl
 ### 🔗 Reference Video
 - 🎥 [YouTube Video on Machine Learning](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
----
+### 📊 Dataset
+- 📂 The dataset used in this project is available on Kaggle:
+  - 🔗 [Rock or Mine Classification Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/rock-or-mine-classification/code)
+  - **Location in Kaggle Notebook:** `/kaggle/input/rock-or-mine-classification/sonar.csv`
+
+### 🚀 How to Use
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Behrooz-Zamanipour/MachineLearningProjects.git
